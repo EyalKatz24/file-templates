@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Kind</key>
+	<string>Xcode.IDEKit.TextSubstitutionFileTemplateKind</string>
+	<key>Summary</key>
+	<string>New use case</string>
+	<key>Platforms</key>
+	<array>
+		<string>com.apple.platform.iphoneos</string>
+		<string>com.apple.platform.macosx</string>
+	</array>
+	<key>SortOrder</key>
+	<integer>1</integer>
+	<key>Options</key>
+	<array>
+		<dict>
+			<key>Identifier</key>
+			<string>productName</string>
+			<key>Required</key>
+			<true/>
+			<key>Name</key>
+			<string>Use Case Name:</string>
+			<key>Description</key>
+			<string>The name of the use case</string>
+			<key>Type</key>
+			<string>text</string>
+			<key>Default</key>
+			<string>Use Case Name</string>
+		</dict>
+		<dict>
+			<key>Identifier</key>
+			<string>varName</string>
+			<key>Required</key>
+			<true/>
+			<key>Name</key>
+			<string>Property Name:</string>
+			<key>Description</key>
+			<string>The name of the property</string>
+			<key>Type</key>
+			<string>text</string>
+			<key>Default</key>
+			<string></string>
+		</dict>
+	</array>
+</dict>
+</plist>
