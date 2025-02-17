@@ -30,5 +30,7 @@
 			<string>Module Name</string>
 		</dict>
 	</array>
+	<key>SupportsSwiftPackage</key>
+	<true/>
 </dict>
 </plist>

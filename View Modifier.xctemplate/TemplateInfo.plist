@@ -50,5 +50,7 @@
 	<string>ViewModifier</string>
 	<key>MainTemplateFile</key>
 	<string>___FILEBASENAME___.swift</string>
+	<key>SupportsSwiftPackage - 2</key>
+	<true/>
 </dict>
 </plist>
