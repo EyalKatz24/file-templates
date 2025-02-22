@@ -5,9 +5,9 @@ import ComposableArchitecture
 <#import ___VARIABLE_rootName___#>
 <#import DesignSystem#>
 
-extension ___VARIABLE_productName___Navigator {
+public extension ___VARIABLE_productName___Navigator {
     
-    struct ContentView: View {
+    public struct ContentView: View {
         
         @Bindable public var store: StoreOf<___VARIABLE_productName___Navigator>
         
